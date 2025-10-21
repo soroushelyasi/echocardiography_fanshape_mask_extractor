@@ -1,0 +1,5 @@
+# Ignore all PyTorch weight files
+*.pth
+
+# Ignore the predicted masks folder at repo root
+/predicted_training_masks/
